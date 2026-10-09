@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WMS - Painel Qualidade - Loader
 // @namespace    qc-wms-br.loader
-// @version      1.0.4
+// @version      1.0.5
 // @description  Loader central do Painel Qualidade - instala uma vez e atualiza automaticamente
 // @author       Lucas Echer
 // @match        https://wms.ssc.shopee.com.br/*
@@ -14,6 +14,8 @@
 // @connect      drive.google.com
 // @connect      drive.usercontent.google.com
 // @connect      googleusercontent.com
+// @connect      script.google.com
+// @connect      script.googleusercontent.com
 // @updateURL    https://raw.githubusercontent.com/LucasEcher-ops/Painel-Qualidade/main/painel-qualidade-loader.user.js
 // @downloadURL  https://raw.githubusercontent.com/LucasEcher-ops/Painel-Qualidade/main/painel-qualidade-loader.user.js
 // ==/UserScript==
